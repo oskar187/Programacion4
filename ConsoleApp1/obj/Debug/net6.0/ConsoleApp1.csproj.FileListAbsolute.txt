@@ -1,0 +1,15 @@
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
